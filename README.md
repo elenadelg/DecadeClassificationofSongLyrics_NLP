@@ -115,7 +115,3 @@ NLP/
 
 ---
 
-<<<<<<< HEAD
-=======
-
->>>>>>> d626540 (Initial commit for DecadeClassificationofSongLyrics NLP project)
