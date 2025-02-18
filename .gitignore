@@ -1,0 +1,2 @@
+.DS_Store
+src/models/llama_finetuned/checkpoint-2000/*.safetensors.crswap

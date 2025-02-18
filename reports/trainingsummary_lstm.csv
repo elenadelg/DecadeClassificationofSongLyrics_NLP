@@ -1,0 +1,2 @@
+best_train_accuracy,best_val_accuracy,best_train_loss,best_val_loss,total_epochs,stopped_epoch,batch_size
+0.38007181882858276,0.34867924451828003,1.5419279336929321,1.641958236694336,20,20,32

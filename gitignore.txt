@@ -1,0 +1,31 @@
+# Ignore Python cache directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+myenv/
+.env
+.venv/
+
+# Environment variables and secrets
+.env
+*.env
+secrets.json
+JobParameters.json  # Assuming it might contain sensitive info
+
+# Jupyter notebooks checkpoints
+notebooks/.ipynb_checkpoints/
+
+# Data files
+data/
+documents/
+*.csv
+*.tsv
+*.parquet
+*.json
+
+# Temporary files
+*.tmp
+*.bak
