@@ -59,16 +59,9 @@ A subset of the **Million Song Dataset** ([Bertin-Mahieux et al., 2011][2]) was 
 | LLAMA          | 0.33     | 0.34     | 2010s (0.57)     | 2020s (0.03)     |
 
 - All models perform best with modern lyrics (2010s), suggesting that recent language patterns are more distinct.
-<<<<<<< HEAD
 - Overall, adjacent decades cause substantial confusion, likely due to gradual linguistic shifts. In particular 1970s, 1980s, and 1990s present significant classification challenges,
 - Logistic Regression (~39%) and Random Forest (~37%) led in accuracy.
 - LlaMA performed similarly to the other models despite not being fine tuned for the task. 
-=======
-- Overall, adjacent decades cause substantial confusion, likely due to gradual linguistic shifts. In particular 1970s, 1980s, and 1990s present significant classification challenges.
-- Logistic Regression (~39%) and Random Forest (~37%) led in accuracy.
-- LlaMA managed to perfomed equally to other models even without fine tuning. 
-
->>>>>>> d626540 (Initial commit for DecadeClassificationofSongLyrics NLP project)
 
 ---
 
